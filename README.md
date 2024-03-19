@@ -29,15 +29,17 @@ d. Make relevant Pivot tables and charts for :
                9) Do atleast one more pivot table and chart of your own choice, if needed
 
 e. Give your understanding from the patterns observed in point (b)
+
 f. Give your interpretation for observations made in point ( c )
+
 g. Edit the data as following, to obtain dummy variables: (5 marks)
+
 h. Sex : Replace all the “Males” with “1” and “Females” with “0”, creating numerical entries for gender this way will help you do analysis further. You can use Replace with 
    “Match entire cell content option. Do a replace all to save time.
+   
 i. Smoker: Replace all the “Smokers” with “1” and “Non-smokers” with “0”.
-j. Region: We always create one less category column for the dummy data w.r.t the categories available for that original variable. So for Region, we will create three dummy columns, assuming “Northeast” as zero and omit the column for it. Now create three columns for “northwest”, “Southeast”, “Southwest”. Whichever row has “northwest” region as an entry will take “1” as an entry otherwise “0” in “northwest” column. Similarily in “Southeast” column, which ever row had “southeast” as an entry will take “1” as the new entry and “0” for the rest columns. Do a similar operation on “Southwest” column.
-Screenshot 2022-08-29 170718.png
 
-              
+j. Region: We always create one less category column for the dummy data w.r.t the categories available for that original variable. So for Region, we will create three dummy columns, assuming “Northeast” as zero and omit the column for it. Now create three columns for “northwest”, “Southeast”, “Southwest”. Whichever row has “northwest” region as an entry will take “1” as an entry otherwise “0” in “northwest” column. Similarily in “Southeast” column, which ever row had “southeast” as an entry will take “1” as the new entry and “0” for the rest columns. Do a similar operation on “Southwest” column.
 
 3) Do a descriptive summary analysis for the edited data. Perform a Multiple Linear Regression analysis to identify which variables decide the insurance charges/billed insurance claim.   
 
