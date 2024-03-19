@@ -1,3 +1,4 @@
+                                                      INSURANCE CLAIM PROBLEM STATEMENT
 Description
 Case Study for presentation : An insurance company in US is reviewing its insurance claim/charges and tyring to do a cause and effect analysis for future business decisions. It has collected data for its customers’ age, gender, bmi, number of children/dependants, smoking habit, region they belong to, charges/bills claimed under the insurance.
 
